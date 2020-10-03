@@ -51,7 +51,7 @@ The project is currently hosted on Netlify (frontend) and Heroku (backend). Have
 <br/>
 <h2>Stack</h2>
 
-<p>Initialized with `create-react-app` and made with the following stack:<br/>
+<p>Initialized with <code>create-react-app</code> and made with the following stack:<br/>
 Frontend : React, axios, react-pagination, react-router-dom<br/>
 Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose</p>
 
@@ -84,3 +84,4 @@ Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose</p>
   <img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601688053/portfolio/ReadMe/marvel-end_dyrjao.jpg" alt ="Marvel Portfolio Project - Banner fin"  />
   </a>
 </p>
+
