@@ -51,9 +51,11 @@ The project is currently hosted on Netlify (frontend) and Heroku (backend). Have
 <br/>
 <h2>Stack</h2>
 
-Initialized with `create-react-app` and made with the following stack :
-Frontend : React, axios, react-pagination, react-router-dom
-Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose
+<p>Initialized with `create-react-app` and made with the following stack:<br/>
+Frontend : React, axios, react-pagination, react-router-dom<br/>
+Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose</p>
+
+
 
 
 <br/>
@@ -77,4 +79,8 @@ Backend : NodeJS, cors, dotenv, express, express-formidable, mongoose
 <br/>
 <br/>
 
-[![Marvel banner end](https://res.cloudinary.com/dqp905mfv/image/upload/v1601688053/portfolio/ReadMe/marvel-end_dyrjao.jpg "Marvel banner end")](https://marvel-jolisdegats.netlify.app/ "Marvel banner end")
+<p align="center">
+<a href="https://marvel-jolisdegats.netlify.app/ ">
+  <img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601688053/portfolio/ReadMe/marvel-end_dyrjao.jpg" alt ="Marvel Portfolio Project - Banner fin"  />
+  </a>
+</p>
